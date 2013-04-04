@@ -1,0 +1,9 @@
+{
+  "framework" : "mocha",
+  "src_files" : [
+    "build/main/js/sample-project.min.js",
+    "node_modules/chai/chai.js",
+    "node_modules/sinon/lib/sinon.js",
+    "build/test/js/**/*-tests.js"
+  ]
+}
