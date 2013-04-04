@@ -5,7 +5,8 @@ module.exports = function (grunt) {
         watch: {
             typescript: {
                 files: [
-                    "main/ts/**/*.ts"
+                    "main/ts/**/*.ts",
+                    "test/ts/**/*.ts"
                 ],
                 tasks: ["ts"],
                 options: {
