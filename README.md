@@ -6,3 +6,5 @@
     grunt watch
 #test
     testem
+    or
+    testem ci
